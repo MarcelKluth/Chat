@@ -5,6 +5,10 @@ public class Peter {
 
         for (int i = xyhjuihjd0; i < 6; i++) {
             System.out.println(i);
+            
+            Test
+            
+            TEST
         }
 
     }
